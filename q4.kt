@@ -1,3 +1,4 @@
+// To check if number is divisible by 5 and 11
 fun main()
 {
     print("Enter a number : ")
@@ -17,5 +18,5 @@ fun main()
               {
                     "No"
               }
-    println ("abosulte value of number is : " + ans)
+    println ("Is number divisible by 5 and 11 : " + ans)
 }
