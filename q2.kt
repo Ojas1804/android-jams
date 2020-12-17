@@ -1,6 +1,7 @@
+// Find the maximum of 3 numbers
 fun main() 
 {
-  print("Enter number: ")
+  print("Enter 3 numbers: ")
   var num1 = Integer.valueOf(readLine())
   var num2 = Integer.valueOf(readLine())
   var num3 = Integer.valueOf(readLine())
