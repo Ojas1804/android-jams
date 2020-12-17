@@ -1,3 +1,4 @@
+// Program to find whether a given charectar is alphabet or not
 fun main()
 {
     print("Enter the charectar: ")
