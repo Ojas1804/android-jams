@@ -1,3 +1,4 @@
+// Prints absolute value
 fun main()
 {
     print("Enter a number : ")
